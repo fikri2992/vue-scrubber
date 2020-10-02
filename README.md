@@ -1,1 +1,1 @@
-# vue-scrubber
+# vue-scrubber for number input
